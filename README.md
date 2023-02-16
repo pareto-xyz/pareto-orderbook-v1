@@ -1,7 +1,5 @@
 # Pareto Order Book v1
 
-[![Tests](https://github.com/pareto-xyz/pareto-orderbook-v1/actions/workflows/ci.yml/badge.svg)](https://github.com/pareto-xyz/pareto-orderbook-v1/actions/workflows/ci.yml)
-
 **[Disclaimer: This repository is no longer maintained and is meant for primarily educational purposes.]**
 
 Part of the series detailed in this [whitepaper](https://github.com/pareto-xyz/pareto-order-book-whitepaper/blob/main/how_to_orderbook.pdf). 
